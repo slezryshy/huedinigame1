@@ -1,0 +1,76 @@
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2746120/extras/ability_gif-export.gif?t=1708052924
+File Name: C:\Downloaded Web Sites\huedinigame.com\steam\apps\2746120\extras\ability_gif-export.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2746120/extras/Colour_changes-export.gif?t=1708052924
+File Name: C:\Downloaded Web Sites\huedinigame.com\steam\apps\2746120\extras\Colour_changes-export.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2746120/extras/colour_matching_the_enemy.gif?t=1708052924
+File Name: C:\Downloaded Web Sites\huedinigame.com\steam\apps\2746120\extras\colour_matching_the_enemy.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2746120/header.jpg?t=1708052924
+File Name: C:\Downloaded Web Sites\huedinigame.com\steam\apps\2746120\header.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2746120/ss_83bcc9c6319d14e8c43996cdb099af5be4138d3b.1920x1080.jpg?t=1708052924
+File Name: C:\Downloaded Web Sites\huedinigame.com\steam\apps\2746120\ss_83bcc9c6319d14e8c43996cdb099af5be4138d3b.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Josefin+Sans|Montserrat
+File Name: C:\Downloaded Web Sites\huedinigame.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\huedinigame.com\s\josefinsans\v32\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\huedinigame.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://huedinigame.com/
+File Name: C:\Downloaded Web Sites\huedinigame.com\index.htm
+Content Type: text/html
+
+Uri: https://huedinigame.com/ab/css/styles.css
+File Name: C:\Downloaded Web Sites\huedinigame.com\ab\css\styles.css
+Content Type: text/css
+
+Uri: https://huedinigame.com/ab/js/Parallax.min.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\ab\js\Parallax.min.js
+Content Type: text/javascript
+
+Uri: https://huedinigame.com/ab/js/script.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\ab\js\script.js
+Content Type: text/javascript
+
+Uri: https://huedinigame.com/ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.7.2_html.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\ajax.aspnetcdn.com\ajax\modernizr\modernizr-2.7.2_html.js
+Content Type: text/javascript
+
+Uri: https://huedinigame.com/ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min_html.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\ajax.googleapis.com\ajax\libs\jquery\1.11.2\jquery.min_html.js
+Content Type: text/javascript
+
+Uri: https://huedinigame.com/iframe_api.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\iframe_api.js
+Content Type: text/javascript
+
+Uri: https://huedinigame.com/s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate_html.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\s3.amazonaws.com\downloads.mailchimp.com\js\mc-validate_html.js
+Content Type: text/javascript
+
+Uri: https://placekitten.com/g/800/600
+File Name: C:\Downloaded Web Sites\huedinigame.com\g\800\600
+Content Type: 
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4CXTY239DV
+File Name: C:\Downloaded Web Sites\huedinigame.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/s/player/80b90bfd/www-widgetapi.vflset/www-widgetapi.js
+File Name: C:\Downloaded Web Sites\huedinigame.com\s\player\80b90bfd\www-widgetapi.vflset\www-widgetapi.js
+Content Type: text/javascript
+
